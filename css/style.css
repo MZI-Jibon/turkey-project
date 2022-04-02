@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    position: relative;
+
+}
+header>img{
+    height: 159px !important;
+    width: 1366px;
+}
+nav{
+    width: 100%;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+section{
+    background: #FBFFFF;
+}
+
+.sec1 .content{
+    border-radius: 20px;
+    padding: 17px;
+}
+
+.sec1-info{
+    padding: 27px;
+}
+.profile{
+    position: relative;
+
+}
+.profile-img{
+    width: 354px;
+    height: 354px;
+    border-radius: 20px;
+}
+
+.profile-name{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
